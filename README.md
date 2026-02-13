@@ -1,2 +1,23 @@
-# sales-data-analysis-dashboard
-Built a Python-based data analysis dashboard to visualize sales performance using Pandas and Matplotlib. The project includes monthly revenue trends, top customers and country-wise sales insights.
+# Sales Data Analysis Dashboard Project
+
+This project performs Sales Data Analysis using Python and generates insightful visual dashboards.
+
+## Features
+- Data Cleaning using Pandas
+- Monthly Sales Analysis
+- Top Customers Analysis
+- Country-wise Sales Analysis
+- Dashboard Visualization using Matplotlib
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Output Graphs
+- Monthly Sales Graph
+- Top Customers Graph
+- Country Sales Graph
+
+## Project Outcome
+Generated meaningful business insights from raw sales data using data visualization techniques.
